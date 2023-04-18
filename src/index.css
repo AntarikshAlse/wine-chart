@@ -1,0 +1,10 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  color: #1a1a1a;
+}
+
+body {
+  margin: 0 auto;
+  place-items: center;
+}
